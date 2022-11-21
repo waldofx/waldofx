@@ -1,6 +1,4 @@
-### Hi there 👋
-### My name is Waldo Felix, I am currently an Engineering Student.
-
+### Hey👋
  
 <p align="left">
 <a href="https://github.com/waldofx">
