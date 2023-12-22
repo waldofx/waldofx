@@ -3,7 +3,9 @@
 <p align="left">
 <a href="https://github.com/waldofx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waldofx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waldofx&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waldofx&layout=compact&langs_count=8&theme=algolia"/> #Jupiter notebook is too over-represented. -->
+ 
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waldofx&theme=blueberry&exclude={exclude}"/>
 </a>
 </p>
 
